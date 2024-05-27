@@ -1,4 +1,5 @@
-# DoD-CTF-Hackathon
+
+<h1 align="center">Department of Defense's (DoD) Capture the Flag (CTF) challenge</h1> 
 <p align="center">
     <img src="https://github.com/luzritacco/DoD-CTF-Hackathon/assets/151267325/c1c249e3-5f27-4341-9779-1f964b40b910=true" alt="Sublime's custom image" />
 </p>
